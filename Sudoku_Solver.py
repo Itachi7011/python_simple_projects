@@ -9,6 +9,7 @@ def is_valid(board, row, col, num):
             return False
 
     # Check the column
+    
 
     for x in range(9):
 
