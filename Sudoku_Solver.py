@@ -10,7 +10,6 @@ def is_valid(board, row, col, num):
 
     # Check the column
     
-
     for x in range(9):
 
         if board[x][col] == num:
