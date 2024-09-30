@@ -16,6 +16,7 @@ class ToDoList:
             del self.tasks[task_number - 1]
         except IndexError:
             print("Invalid task number.")
+            
 
 def main():
     todo = ToDoList()
