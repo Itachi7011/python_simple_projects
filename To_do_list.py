@@ -17,7 +17,6 @@ class ToDoList:
         except IndexError:
             print("Invalid task number.")
             
-
 def main():
     todo = ToDoList()
 
