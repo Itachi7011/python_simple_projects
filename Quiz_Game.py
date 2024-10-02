@@ -9,6 +9,7 @@ questions = {
     "What is the deepest ocean?": "Pacific Ocean"
 }
 
+
 # Initialize score to 0
 score = 0
 
