@@ -4,7 +4,6 @@ print("Welcome to the Calculator Program!")
 while True:
 
     # Get user input for the operation
-
     operation = input("Enter an operation (+, -, *, /) or 'q' to quit: ")
 
     if operation == "q":
@@ -14,7 +13,6 @@ while True:
     # Get user input for the numbers
 
     num1 = float(input("Enter the first number: "))
-
     num2 = float(input("Enter the second number: "))
 
     # Perform the operation
