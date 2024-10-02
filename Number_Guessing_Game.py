@@ -2,17 +2,14 @@ print("Welcome to the Guessing Game!")
 
 
 # Set the number to be guessed
-
 number_to_guess = 42
 
 
 # Set the number of attempts
-
 attempts = 0
 
 
 # Set the maximum number of attempts
-
 max_attempts = 6
 
 
