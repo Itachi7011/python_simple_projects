@@ -1,6 +1,5 @@
 import random
 
-
 def game():
 
     while True:
