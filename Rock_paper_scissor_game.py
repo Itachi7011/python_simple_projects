@@ -7,8 +7,6 @@ def game():
 
         user_choice = input("Enter a choice ( 1(rock), 2(paper), 3(scissors) ): ")
 
-
-
         possible_choices = ["rock", "paper", "scissors"]
 
         computer_choice = random.choice(possible_choices)
@@ -49,13 +47,13 @@ def game():
 
                 print("Rock smashes scissors! You lose.")
 
-        play_again = input("Play again? (yes/no): ").lower()
+        play_again = input("Play again? (yes (y) /no (n)): ").lower()
 
-        while play_again not in ["yes", "no"]:
+        while play_again not in ["yes", "no", "y", "n"]:
 
             play_again = input("Invalid input. Play again? (yes/no): ").lower()
 
-        if play_again != "yes":
+        if play_again in ["no", "n"]:
 
             break
 
