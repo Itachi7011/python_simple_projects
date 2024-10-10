@@ -3,7 +3,6 @@
 
 print("Welcome to the Mad Libs Game!")
 
-
 # Get user input for the story
 
 name = input("Enter a name: ")
@@ -14,7 +13,6 @@ noun1 = input("Enter a noun: ")
 noun2 = input("Enter another noun: ")
 animal = input("Enter an animal: ")
 food = input("Enter a food: ")
-
 
 # The story with placeholders
 
