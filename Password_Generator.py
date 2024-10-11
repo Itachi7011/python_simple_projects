@@ -18,6 +18,6 @@ def generate_password(length):
     return password
 
 
-length = int(input("Enter the length of the password (Atleast 8): "))
+length = int(input("Enter The Length Of The Password (Atleast 8): "))
 
 print("Unique Generated Password : ", generate_password(length))
