@@ -58,7 +58,79 @@ responses = {
 
     "what's interesting": "I've got a few topics in mind. How about we talk about the latest scientific discoveries, historical events, or cultural trends?",
     
-    
+    # Education
+
+
+    "what is algebra": "Algebra is a branch of mathematics that deals with the study of variables and their relationships.",
+
+
+    "what is geometry": "Geometry is a branch of mathematics that deals with the study of shapes, sizes, and positions of objects.",
+
+
+    "what is biology": "Biology is the study of living organisms and their interactions with the environment.",
+
+
+    "what is chemistry": "Chemistry is the study of the composition, properties, and reactions of matter.",
+
+
+    # History
+
+
+    "who was albert einstein": "Albert Einstein was a renowned physicist who developed the theory of relativity and is considered one of the most influential scientists of the 20th century.",
+
+
+    "who was marie curie": "Marie Curie was a physicist and chemist who was the first woman to win a Nobel Prize and is best known for her pioneering work on radioactivity.",
+
+
+    "who was charles darwin": "Charles Darwin was a biologist who is best known for his theory of evolution through natural selection.",
+
+
+    "who was leonardo da vinci": "Leonardo da Vinci was a polymath who is widely considered one of the greatest painters, inventors, and scientists of all time.",
+
+
+    # Entertainment
+
+
+    "what is a movie": "A movie is a series of moving images that tell a story or convey information.",
+
+
+    "what is music": "Music is an art form whose medium is sound and silence.",
+
+
+    "what is a book": "A book is a written or printed work consisting of pages glued or sewn together.",
+
+
+    "what is a game": "A game is an activity or contest with rules, undertaken for entertainment or recreation.",
+
+
+    # Travel
+
+
+    "what is a country": "A country is a geographical area that is recognized as a separate entity in the international community.",
+
+
+    "what is a city": "A city is a large human settlement that is typically characterized by a high population density and a complex system of infrastructure.",
+
+
+    "what is a mountain": "A mountain is a natural elevation of the earth's surface that is usually steeper and taller than a hill.",
+
+
+    "what is a river": "A river is a natural flowing body of water that often connects lakes, wetlands, and oceans.",
+
+
+    # Food
+
+
+    "what is a fruit": "A fruit is the sweet and fleshy part of a plant that develops from the ovary of a flower.",
+
+
+    "what is a vegetable": "A vegetable is any edible part of a plant, such as the leaves, stems, roots, or tubers.",
+
+
+    "what is a meat": "A meat is the flesh of an animal that is used as food.",
+
+
+    "what is a dessert": "A dessert is a sweet dish that is typically served after a meal.",
 
     # Help and quit
 
