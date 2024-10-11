@@ -72,7 +72,6 @@ responses = {
 
 }
 
-
 # Define a list to store the conversation history
 
 conversation_history = []
